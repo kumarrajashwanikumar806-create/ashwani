@@ -1,0 +1,6 @@
+{
+  "name": "Kishan Bandhu Pro",
+  "description": "किसान बंधु प्रो (Kishan Bandhu Pro App) - किसानों का सच्चा साथी. Smart agriculture assistant with CameraX real-time leaf disease scanner, photo upload AI analysis, weather updates, 22 languages, and mandi rates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
